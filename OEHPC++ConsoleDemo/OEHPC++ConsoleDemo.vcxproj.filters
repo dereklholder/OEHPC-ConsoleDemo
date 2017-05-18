@@ -30,6 +30,18 @@
     <ClInclude Include="OEHPC++ConsoleDemo.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="pchar.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OEHPPosts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TransactionRequestBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\ChromeDownloads\json.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

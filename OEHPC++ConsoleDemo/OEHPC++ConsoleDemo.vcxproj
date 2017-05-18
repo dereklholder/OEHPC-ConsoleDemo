@@ -142,10 +142,14 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="D:\ChromeDownloads\json.hpp" />
     <ClInclude Include="OEHPC++ConsoleDemo.h" />
+    <ClInclude Include="OEHPPosts.h" />
+    <ClInclude Include="pchar.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
+    <ClInclude Include="TransactionRequestBuilder.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="OEHPC++ConsoleDemo.cpp" />

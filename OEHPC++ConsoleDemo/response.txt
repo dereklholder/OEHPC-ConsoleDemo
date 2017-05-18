@@ -1,0 +1,4 @@
+{
+  "sealedSetupParameters" : "1495130334701Qw2fAKfrxYtEeHHDUBO",
+  "actionUrl" : "https://ws.test.paygateway.com/HostPayService/v1/hostpay/paypage/"
+}
